@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git file is on git server
 Creating a new branch is quick and simple.
 Add for not fast forward.
+Add fast forwar.
